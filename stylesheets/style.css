@@ -1,0 +1,23 @@
+img {
+    height: auto;
+    max-width: 400px;
+    border: groove .5rem black;
+}
+
+li {
+    padding: .20rem;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: groove 5px black;
+    margin: auto 15%;
+}
+
+.recipe {
+    justify-content: left;
+    margin: auto 10%;
+}
